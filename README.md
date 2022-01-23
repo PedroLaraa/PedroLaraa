@@ -1,3 +1,3 @@
 - 👋 Opa, me chamo Pedro
-- 👀 Sou estudante e gosto muito de Python e JavaScript
+- 👀 Sou estudante de ciência da computação
 - 📫 Se precisar é só me mandar um email: pedroalveslara@gmail.com
