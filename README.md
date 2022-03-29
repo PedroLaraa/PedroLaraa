@@ -1,3 +1,5 @@
-- 👋 Opa, me chamo Pedro
+- 👋 Opa, me chamo Pedro e curto um Code & Coffe & Repeat
 - 👀 Sou estudante de ciência da computação
+- 🧑🏻‍💻 Skills atuais: Java Script, HTML, CSS, Python; (CONTINUO ESTUDANDO)
+- 🧗🏻 Skills EM ESTUDO: Google Cloud e Banco de Dados MySql;
 - 📫 Se precisar é só me mandar um email: pedroalveslara@gmail.com
