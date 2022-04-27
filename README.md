@@ -1,6 +1,6 @@
-###🧑🏻‍💻 Opa! Me chamo Pedro e sou desenvolvedor Web Full-Stack
+## 🐱‍👤 Opa! Me chamo Pedro e sou desenvolvedor Web Full-Stack.
 
-##
+#
 
 <div align="center">
   <a href="https://github.com/PedroLaraa">
