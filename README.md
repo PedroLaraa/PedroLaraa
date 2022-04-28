@@ -1,4 +1,4 @@
-## 🐱‍👤 Opa! Me chamo Pedro e sou desenvolvedor Web Full-Stack.
+## Opa! Me chamo Pedro e sou desenvolvedor Web Full-Stack.
 
 #
 
