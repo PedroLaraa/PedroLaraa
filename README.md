@@ -40,4 +40,5 @@
   
 ![Snake animation](https://github.com/PedroLaraa/PedroLaraa/blob/output/github-contribution-grid-snake.svg)
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?PedroLaraa=anuraghazra&repo=github-PedroLaraa)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=crud-exper&theme=ocean_dark)](https://github.com/PedroLaraa/crud-exper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=CursoJsUdemy&theme=ocean_dark)](https://github.com/PedroLaraa/CursoJsUdemy)
