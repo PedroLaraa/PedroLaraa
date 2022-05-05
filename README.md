@@ -1,11 +1,10 @@
-## Opa! Me chamo Pedro e sou desenvolvedor Web Full-Stack.
+## Opa! Me chamo Pedro e sou desenvolvedor Web Full-Stack
 
-#
 
 <div align="center">
   <a href="https://github.com/PedroLaraa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLaraa&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLaraa&layout=compact&langs_count=7&theme=moltack"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLaraa&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLaraa&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40"
