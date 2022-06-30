@@ -42,3 +42,5 @@
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=crud-exper&theme=ocean_dark)](https://github.com/PedroLaraa/crud-exper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=CursoJsUdemy&theme=ocean_dark)](https://github.com/PedroLaraa/CursoJsUdemy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Curso-Python&theme=ocean_dark)](https://github.com/PedroLaraa/Curso-Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=campoMinado-testeEstagioIvory&theme=ocean_dark)](https://github.com/PedroLaraa/Curso-Python)
