@@ -9,6 +9,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Pedro-Py" height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Pedro-Node" height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Pedro-Express" height="30" width="40"
