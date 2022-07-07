@@ -1,4 +1,4 @@
-## Opa! Me chamo Pedro e sou desenvolvedor Web Full-Stack
+## >>> Opa! Sou desenvolvedor Web Full-Stack. Fique a vontade pra ver meus códigos =D
 
 
 <div align="center">
