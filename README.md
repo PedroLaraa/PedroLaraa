@@ -1,4 +1,4 @@
-## >>> Opa! Sou desenvolvedor Web Full-Stack. Fique a vontade pra ver meus códigos =D
+## >>> Opa! Sou desenvolvedor Web. Fique a vontade pra ver meus códigos =D
 
 
 <div align="center">
