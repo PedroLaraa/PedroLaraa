@@ -46,3 +46,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=CursoJsUdemy&theme=ocean_dark)](https://github.com/PedroLaraa/CursoJsUdemy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Curso-Python&theme=ocean_dark)](https://github.com/PedroLaraa/Curso-Python)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Curso-MachineLearning-Alura&theme=ocean_dark)](https://github.com/PedroLaraa/Curso-MachineLearning-Alura)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=RECOMENDADOR-DE-MUSICAS&theme=ocean_dark)](https://github.com/PedroLaraa/RECOMENDADOR-DE-MUSICAS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Estudos-De-Java-Faculdade&theme=ocean_dark)](https://github.com/PedroLaraa/Estudos-De-Java-Faculdade)
