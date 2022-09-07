@@ -1,6 +1,6 @@
-## >>> Opa! Sou desenvolvedor Web. Fique a vontade pra ver meus códigos =D
-
-
+## ⮞ Opa! Me chamo Pedro e sou desenvolvedor, fique à vontade para ver meus códigos =D
+<br />
+<br />
 <div align="center">
   <a href="https://github.com/PedroLaraa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLaraa&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
