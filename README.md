@@ -1,4 +1,4 @@
-## ⮞ Opa! Me chamo Pedro e sou desenvolvedor, fique à vontade </>
+## ⮞ Opa! Me chamo Pedro e sou desenvolvedor, fique à vontade <CODE />
 <br />
 <br />
 <div align="center">
