@@ -44,7 +44,8 @@
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=crud-exper&theme=ocean_dark)](https://github.com/PedroLaraa/crud-exper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Detector-De-Rostos&theme=ocean_dark)](https://github.com/PedroLaraa/Detector-De-Rostos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=CursoJsUdemy&theme=ocean_dark)](https://github.com/PedroLaraa/CursoJsUdemy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Api-NodeJs-Sequelize-MySql&theme=ocean_dark)](https://github.com/PedroLaraa/Api-NodeJs-Sequelize-MySql)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Api-Rest-Express-MongoDB&theme=ocean_dark)](https://github.com/PedroLaraa/Api-Rest-Express-MongoDB)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Curso-MachineLearning-Alura&theme=ocean_dark)](https://github.com/PedroLaraa/Curso-MachineLearning-Alura)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=RECOMENDADOR-DE-MUSICAS&theme=ocean_dark)](https://github.com/PedroLaraa/RECOMENDADOR-DE-MUSICAS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Estudos-De-Java-Faculdade&theme=ocean_dark)](https://github.com/PedroLaraa/Estudos-De-Java-Faculdade)
+
