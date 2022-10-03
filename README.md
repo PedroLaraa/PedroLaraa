@@ -42,7 +42,7 @@
   
 ![Snake animation](https://github.com/PedroLaraa/PedroLaraa/blob/output/github-contribution-grid-snake.svg)
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=crud-exper&theme=ocean_dark)](https://github.com/PedroLaraa/crud-exper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Portfolio-De-Projetos&theme=ocean_dark)](https://github.com/PedroLaraa/Portfolio-De-Projetos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Detector-De-Rostos&theme=ocean_dark)](https://github.com/PedroLaraa/Detector-De-Rostos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Api-NodeJs-Sequelize-MySql&theme=ocean_dark)](https://github.com/PedroLaraa/Api-NodeJs-Sequelize-MySql)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Api-Rest-Express-MongoDB&theme=ocean_dark)](https://github.com/PedroLaraa/Api-Rest-Express-MongoDB)
