@@ -48,4 +48,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Api-Rest-Express-MongoDB&theme=ocean_dark)](https://github.com/PedroLaraa/Api-Rest-Express-MongoDB)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Curso-MachineLearning-Alura&theme=ocean_dark)](https://github.com/PedroLaraa/Curso-MachineLearning-Alura)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=RECOMENDADOR-DE-MUSICAS&theme=ocean_dark)](https://github.com/PedroLaraa/RECOMENDADOR-DE-MUSICAS)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Biblioteca-Com-Angular&theme=ocean_dark)](https://github.com/PedroLaraa/Biblioteca-Com-Angular)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=InstAnimals-Angular&theme=ocean_dark)](https://github.com/PedroLaraa/InstAnimals-Angular)
