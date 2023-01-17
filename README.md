@@ -1,6 +1,4 @@
-<p align="center" >
-  ⮞ Opa! Me chamo Pedro e sou Web Full-Stack!
-</p>
+
 <br />
 <br />
 <div align="center">
