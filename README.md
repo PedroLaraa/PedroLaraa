@@ -3,8 +3,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/PedroLaraa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLaraa&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLaraa&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=PedroLaraa&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=PedroLaraa&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-React" height="30" width="40"
@@ -42,11 +42,11 @@
   
 ![Snake animation](https://github.com/PedroLaraa/PedroLaraa/blob/output/github-contribution-grid-snake.svg)
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Weather-Map&theme=ocean_dark)](https://github.com/PedroLaraa/Weather-Map)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Bumblebee-Orcamentos-Carros&theme=ocean_dark)](https://github.com/PedroLaraa/Bumblebee-Orcamentos-Carros)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Url-Short&theme=ocean_dark)](https://github.com/PedroLaraa/Url-Short)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Biblioteca-Com-Angular&theme=ocean_dark)](https://github.com/PedroLaraa/Biblioteca-Com-Angular)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Api-NodeJs-Sequelize-MySql&theme=ocean_dark)](https://github.com/PedroLaraa/Api-NodeJs-Sequelize-MySql)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Api-Rest-Express-MongoDB&theme=ocean_dark)](https://github.com/PedroLaraa/Api-Rest-Express-MongoDB)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Curso-MachineLearning-Alura&theme=ocean_dark)](https://github.com/PedroLaraa/Curso-MachineLearning-Alura)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=RECOMENDADOR-DE-MUSICAS&theme=ocean_dark)](https://github.com/PedroLaraa/RECOMENDADOR-DE-MUSICAS)
+[![Readme Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=PedroLaraa&repo=Weather-Map&theme=ocean_dark)](https://github.com/PedroLaraa/Weather-Map)
+[![Readme Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=PedroLaraa&repo=Bumblebee-Orcamentos-Carros&theme=ocean_dark)](https://github.com/PedroLaraa/Bumblebee-Orcamentos-Carros)
+  [![Readme Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=PedroLaraa&repo=Url-Short&theme=ocean_dark)](https://github.com/PedroLaraa/Url-Short)
+[![Readme Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=PedroLaraa&repo=Biblioteca-Com-Angular&theme=ocean_dark)](https://github.com/PedroLaraa/Biblioteca-Com-Angular)
+[![Readme Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=PedroLaraa&repo=Api-NodeJs-Sequelize-MySql&theme=ocean_dark)](https://github.com/PedroLaraa/Api-NodeJs-Sequelize-MySql)
+[![Readme Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=PedroLaraa&repo=Api-Rest-Express-MongoDB&theme=ocean_dark)](https://github.com/PedroLaraa/Api-Rest-Express-MongoDB)
+[![Readme Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=PedroLaraa&repo=Curso-MachineLearning-Alura&theme=ocean_dark)](https://github.com/PedroLaraa/Curso-MachineLearning-Alura)
+[![Readme Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=PedroLaraa&repo=RECOMENDADOR-DE-MUSICAS&theme=ocean_dark)](https://github.com/PedroLaraa/RECOMENDADOR-DE-MUSICAS)
