@@ -40,10 +40,10 @@
 
 <div align="center">
   
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Projeto-ECommerce-BackEnd&theme=ocean_dark)](https://github.com/PedroLaraa/Projeto-ECommerce-BackEnd)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=API-NestJs-Prisma&theme=ocean_dark)](https://github.com/PedroLaraa/API-NestJs-Prisma)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Weather-Map&theme=ocean_dark)](https://github.com/PedroLaraa/Weather-Map)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Bumblebee-Orcamentos-Carros&theme=ocean_dark)](https://github.com/PedroLaraa/Bumblebee-Orcamentos-Carros)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Api-NodeJs-Sequelize-MySql&theme=ocean_dark)](https://github.com/PedroLaraa/Api-NodeJs-Sequelize-MySql)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Api-Rest-Express-MongoDB&theme=ocean_dark)](https://github.com/PedroLaraa/Api-Rest-Express-MongoDB)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=Curso-MachineLearning-Alura&theme=ocean_dark)](https://github.com/PedroLaraa/Curso-MachineLearning-Alura)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=JumpMario-Game&theme=ocean_dark)](https://github.com/PedroLaraa/JumpMario-Game)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLaraa&repo=RECOMENDADOR-DE-MUSICAS&theme=ocean_dark)](https://github.com/PedroLaraa/RECOMENDADOR-DE-MUSICAS)
 </div>
