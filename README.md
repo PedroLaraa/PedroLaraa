@@ -3,8 +3,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/PedroLaraa">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroLaraa&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroLaraa&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroLaraa&show_icons=true&theme=react&line&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroLaraa&layout=compact&langs_count=7&theme=react&line"/>
 </div>
 <div align="center"><br>
   <img align="center" alt="Pedro-React" height="30" width="40"
@@ -40,10 +40,10 @@
 
 <div align="center">
   
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PedroLaraa&repo=Projeto-ECommerce-BackEnd&theme=ocean_dark)](https://github.com/PedroLaraa/Projeto-ECommerce-BackEnd)
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PedroLaraa&repo=API-NestJs-Prisma&theme=ocean_dark)](https://github.com/PedroLaraa/API-NestJs-Prisma)
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PedroLaraa&repo=Weather-Map&theme=ocean_dark)](https://github.com/PedroLaraa/Weather-Map)
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PedroLaraa&repo=Api-Rest-Express-MongoDB&theme=ocean_dark)](https://github.com/PedroLaraa/Api-Rest-Express-MongoDB)
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PedroLaraa&repo=JumpMario-Game&theme=ocean_dark)](https://github.com/PedroLaraa/JumpMario-Game)
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PedroLaraa&repo=RECOMENDADOR-DE-MUSICAS&theme=ocean_dark)](https://github.com/PedroLaraa/RECOMENDADOR-DE-MUSICAS)
+  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PedroLaraa&repo=Projeto-ECommerce-BackEnd&theme=react&line)](https://github.com/PedroLaraa/Projeto-ECommerce-BackEnd)
+  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PedroLaraa&repo=API-NestJs-Prisma&theme=react&line)](https://github.com/PedroLaraa/API-NestJs-Prisma)
+  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PedroLaraa&repo=Weather-Map&theme=react&line)](https://github.com/PedroLaraa/Weather-Map)
+  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PedroLaraa&repo=Api-Rest-Express-MongoDB&theme=react&line)](https://github.com/PedroLaraa/Api-Rest-Express-MongoDB)
+  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PedroLaraa&repo=JumpMario-Game&theme=react&line)](https://github.com/PedroLaraa/JumpMario-Game)
+  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PedroLaraa&repo=RECOMENDADOR-DE-MUSICAS&theme=react&line)](https://github.com/PedroLaraa/RECOMENDADOR-DE-MUSICAS)
 </div>
