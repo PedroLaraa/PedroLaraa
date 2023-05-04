@@ -7,6 +7,8 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroLaraa&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <div align="center"><br>
+  <img align="center" alt="Pedro-Node" height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img align="center" alt="Pedro-React" height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Pedro-Node" height="30" width="40"
