@@ -26,21 +26,11 @@
   </div>
   
 ##
-  
-<div align="center"> 
-  <a href="https://linkedin.com/in/pedro-lara-497723176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:pedroalveslara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/PedroLaraa/PedroLaraa/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-  
-##
 
 <div align="center">
   
   [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PedroLaraa&repo=Projeto-ECommerce-BackEnd&theme=synthwave)](https://github.com/PedroLaraa/Projeto-ECommerce-BackEnd)
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PedroLaraa&repo=API-NestJs-Prisma&theme=synthwave)](https://github.com/PedroLaraa/API-NestJs-Prisma)
+  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PedroLaraa&repo=Lista-De-Compras&theme=synthwave)](https://github.com/PedroLaraa/Lista-De-Compras)
   [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PedroLaraa&repo=Weather-Map&theme=synthwave)](https://github.com/PedroLaraa/Weather-Map)
   [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PedroLaraa&repo=Api-Rest-Express-MongoDB&theme=synthwave)](https://github.com/PedroLaraa/Api-Rest-Express-MongoDB)
   [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PedroLaraa&repo=JumpMario-Game&theme=synthwave)](https://github.com/PedroLaraa/JumpMario-Game)
