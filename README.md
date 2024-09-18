@@ -24,11 +24,3 @@
   </div>
   
 ##
-
-<div align="center">
-  
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PedroLaraa&repo=Phishing-Instagram&theme=dracula)](https://github.com/PedroLaraa/Phishing-Instagram)
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PedroLaraa&repo=Lista-De-Compras&theme=dracula)](https://github.com/PedroLaraa/Lista-De-Compras)
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PedroLaraa&repo=RECOMENDADOR-DE-MUSICAS&theme=dracula)](https://github.com/PedroLaraa/RECOMENDADOR-DE-MUSICAS)
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PedroLaraa&repo=Django-Api&theme=dracula)](https://github.com/PedroLaraa/Django-Api)
-</div>
