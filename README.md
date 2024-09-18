@@ -1,6 +1,9 @@
-### Hey, my name is Pedro Lara and welcome to my github
-- 🔒 I'm currently learning CyberSecurity
-- 🥷 Focused on RedTeam - Pentest
+<div align="center">
+  <h4>Hey, my name is Pedro Lara and welcome to my github!</h4>
+  - 🔒 I'm currently learning CyberSecurity
+  <br />
+  - 🥷 Focused on RedTeam - Pentest
+</div>
 <br />
 <br />
 <div align="center">
